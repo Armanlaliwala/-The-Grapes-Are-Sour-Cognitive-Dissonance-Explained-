@@ -16,7 +16,6 @@ This repository contains an SEO-friendly blog post titled **"Why Do We Say 'The 
 
 ## 📂 Folder Structure
 ```
-├── blog_post.md       # The main blog content
 ├── images/            # Folder for visuals (optional)
 └── README.md          # Project overview and instructions
 ```
@@ -33,19 +32,19 @@ This repository contains an SEO-friendly blog post titled **"Why Do We Say 'The 
 ## 🛠️ How to Use This Repository
 1. **Clone the repo:**  
 ```bash
-git clone https://github.com/your-username/sour-grapes-cognitive-dissonance.git
+git clone https://github.com/Armanlaliwala/-The-Grapes-Are-Sour-Cognitive-Dissonance-Explained-
 ```
 2. **Navigate to the folder:**  
 ```bash
-cd sour-grapes-cognitive-dissonance
+cd -The-Grapes-Are-Sour-Cognitive-Dissonance-Explained-
 ```
-3. **Open `blog_post.md`** to read or repurpose the content.  
+3. **Open `readme.md`** to read or repurpose the content.  
 4. **Feel free to share or adapt** with proper credit to the author.  
 
 ---
 
 ## 🔗 Where to Read the Blog
-👉 Check out the published article on platforms like Medium, Blogger, or LinkedIn for an enhanced reading experience.
+👉 [Check out the published article on platforms like Medium, Blogger, or LinkedIn for an enhanced reading experience](https://medium.com/@armanlaliwala/why-do-we-say-the-grapes-are-sour-a-lesson-in-cognitive-dissonance-1923ae9f3835).
 
 ---
 
@@ -53,9 +52,9 @@ cd sour-grapes-cognitive-dissonance
 ✨ *Arman Laliwala* is passionate about bridging **human psychology** with **AI/ML solutions**, aiming to make technology more intuitive and user-friendly.
 
 🌐 Connect with me:  
-🔗 LinkedIn: [Arman Laliwala](#)  
-🐦 Twitter: [@armanlaliwala](#)  
-💼 Portfolio: [Coming Soon]()  
+🔗 LinkedIn: [Arman Laliwala](https://www.linkedin.com/in/armanlaliwala/)  
+🐦 Twitter: [@armanlaliwala](https://x.com/armanlaliwala)  
+💼 Portfolio: [Arman Laliwala](https://armanlaliwala.github.io/Portfolio/)  
 
 ---
 
@@ -68,11 +67,6 @@ cd sour-grapes-cognitive-dissonance
 ## 🏷️ Hashtags for Reach
 #ARMANLALIWAL #armanlaliwala #arman #laliwala  
 #CognitiveDissonance #AI #MachineLearning #HumanBehavior #AIMLEngineering #PsychologyInTech #DecisionMaking #PersonalGrowth #UserBehavior #DataScience
-
----
-
-## 📢 License
-This project is open-source. Feel free to use, share, and adapt with **proper attribution to Arman Laliwala**.
 
 ---
 
